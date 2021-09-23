@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyDictionary</string>
+    <string name="title_word_of_day">Word of the Day</string>
+    <string name="title_dictionary">Dictionary</string>
+    <string name="word_of_the_day">Word of the Day</string>
+    <string name="definition">Definition</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="antonyms">Antonyms</string>
+    <string name="enter_word_to_search_in_dictionary">Enter word to search</string>
+    <string name="word_to_search">Word to search</string>
+    <string name="search">Search</string>
+    <string name="resulting_word">Resulting Word</string>
+    <string name="word_definition">Word Definition</string>
+</resources>
